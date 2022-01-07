@@ -1,0 +1,6 @@
+This is written inside first line with semicolon;
+a;
+b;
+c.
+d.
+This is written inside last line no semicolon .
